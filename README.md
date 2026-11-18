@@ -1,4 +1,4 @@
-# The Mum Crew — Palm Trees CrewCup landing page
+# The Mum Crew: Palm Trees CrewCup landing page
 
 A focused, customer-facing paid-traffic landing page built with HTML, CSS and JavaScript.
 
